@@ -54,3 +54,14 @@ forEach(students, function(student) {
 tutorialsElement.addEventListener('click', function(event) {
     console.log(event);
     console.log('the tutorials element was clicked')})
+    
+    
+//hhigher order functions
+// functions that accept other functions & enhance function behavior
+//     runWithDebugger
+//     forEach
+//     setTimeout
+//    addEventListener
+
+// callback functions
+//    functions that are passed into higher order functions
